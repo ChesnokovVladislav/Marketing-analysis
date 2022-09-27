@@ -1,1 +1,2 @@
-# Marketing-analysis
+# Marketing-analysis Kinopoisk HW
+<br>I test the difference in ratings of films using Mann-Whitney U-test and Boostrap on the film ranking from Kinopoisk top-250. The results show that in general sample there is no difference in means and sum of ranks. We also analyse top-2 most frequent countries and genres for the significant staticital differce. The results can be found in ipynb file that lies in this repository 
